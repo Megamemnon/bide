@@ -1,0 +1,15 @@
+{
+    "C_Cpp.default.configurationProvider": "ms-vscode.makefile-tools",
+    "makefile.makefilePath": "/home/brian/git/bide/Makefile",
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/home/brian/git/bide",
+            "binaryPath": "/home/brian/git/bide/bide",
+            "binaryArgs": []
+        }
+    ],
+    "files.associations": {
+        "\"*.pl\"": "\"prolog\"",
+        "bide.h": "c"
+    }
+}
